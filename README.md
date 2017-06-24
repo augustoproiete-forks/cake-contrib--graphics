@@ -12,7 +12,9 @@ If you would like to use this icon within your NuGet packages, or anywhere else,
 
 These use the GitHub CDN, and are therefore better than using a direct URL similar to:
 
-https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-large.png
+* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-large.png
+* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-medium.png
+* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-small.png
 
 ---
 

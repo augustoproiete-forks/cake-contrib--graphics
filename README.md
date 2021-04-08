@@ -4,17 +4,50 @@ This repository contains graphics such as logotypes related to Cake Contribution
 
 **Please make sure that you've read the license agreement in full before using or modifying anything in this repository.**
 
-If you would like to use this icon within your NuGet packages, or anywhere else, the recommended URL's are as follows:
+<div align="center">
+<table>
+  <tr>
+    <td align="center">Addin</td>
+    <td align="center">Module</td>
+    <td align="center">Recipe</td>
+    <td align="center">Frosting Recipe</td>
+    <td align="center">Community</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="png/addin/cake-contrib-addin-medium.png" width="120px;" alt="Cake Contrib Addin logo" /></td>
+    <td align="center"><img src="png/module/cake-contrib-module-medium.png" width="120px;" alt="Cake Contrib Module logo" /></td>
+    <td align="center"><img src="png/recipe/cake-contrib-recipe-medium.png" width="120px;" alt="Cake Contrib Recipe logo" /></td>
+    <td align="center"><img src="png/frosting-recipe/cake-contrib-frosting-recipe-medium.png" width="120px;" alt="Cake Contrib Frosting Recipe logo" /></td>
+    <td align="center"><img src="png/community/cake-contrib-community-medium.png" width="120px;" alt="Cake Contrib Community logo" /></td>
+  </tr>
+</table>
+</div>
 
-* https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-large.png
-* https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png
-* https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-small.png
+If you would like to use any of the Cake Contrib icons within your NuGet packages, or anywhere else, the recommended URL's are as follows:
+
+- **Addin**
+  - https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/addin/cake-contrib-addin-medium.png
+- **Module**
+  - https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/module/cake-contrib-module-medium.png
+- **Recipe**
+  - https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/recipe/cake-contrib-recipe-medium.png
+- **Frosting Recipe**
+  - https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/frosting-recipe/cake-contrib-frosting-recipe-medium.png
+- **Community**
+  - https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/community/cake-contrib-community-medium.png
 
 These use the GitHub CDN, and are therefore better than using a direct URL similar to:
 
-* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-large.png
-* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-medium.png
-* https://github.com/cake-contrib/graphics/blob/master/png/cake-contrib-small.png
+- **Addin**
+  - https://github.com/cake-contrib/graphics/blob/master/png/addin/cake-contrib-addin-medium.png
+- **Module**
+  - https://github.com/cake-contrib/graphics/blob/master/png/module/cake-contrib-module-medium.png
+- **Recipe**
+  - https://github.com/cake-contrib/graphics/blob/master/png/recipe/cake-contrib-recipe-medium.png
+- **Frosting Recipe**
+  - https://github.com/cake-contrib/graphics/blob/master/png/frosting-recipe/cake-contrib-frosting-recipe-medium.png
+- **Community**
+  - https://github.com/cake-contrib/graphics/blob/master/png/community/cake-contrib-community-medium.png
 
 ---
 
